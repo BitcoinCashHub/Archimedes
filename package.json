@@ -1,0 +1,24 @@
+{
+  "name": "archimedes",
+  "version": "0.0.1",
+  "description": "bitcoin cash multisig wallet demo in mobile browser",
+  "main": "index.html",
+  "dependencies": {
+    "bval": "^0.1.5",
+    "bfile": "^0.1.4",
+    "bweb": "^0.1.7",
+    "binet": "^0.3.4",
+    "bsock": "^0.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitcoincashhub/archimedes.git"
+  },
+  "author": "钱家骏",
+  "license": "MIT"
+}
